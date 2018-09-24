@@ -1,0 +1,9 @@
+[submodule "MCAD"]
+	path = MCAD
+	url = https://github.com/SolidCode/MCAD.git
+[submodule "list-comprehension-demos"]
+	path = list-comprehension-demos
+	url = https://github.com/openscad/list-comprehension-demos.git
+[submodule "scad-utils"]
+	path = scad-utils
+	url = https://github.com/openscad/scad-utils.git
